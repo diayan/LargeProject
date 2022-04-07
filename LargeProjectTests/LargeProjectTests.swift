@@ -19,7 +19,7 @@ class LargeProjectTests: XCTestCase {
     }
 
     func testExample() throws {
-        let i = 0
+        let i = 1
         
         XCTAssert(i == 0, "i is supposed to be 0")
     }
