@@ -19,9 +19,8 @@ class LargeProjectTests: XCTestCase {
     }
 
     func testExample() throws {
-        let i = 0
-        
-        XCTAssert(i == 0, "i is supposed to be 0")
+        let testNum = 0
+        XCTAssert(testNum == 0, "i is supposed to be 0")
     }
 
     func testPerformanceExample() throws {
